@@ -63,3 +63,6 @@ Next, select the Spark MAX that you're having trouble with, and click "Load firm
 ![](pics/DFU-Update.png)
 
 Your Spark MAX should be updated to the latest version! Please configure the CAN ID if necessary. 
+
+
+!! If there are any issues with this document, please make those changes or open an issue thread.
